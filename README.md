@@ -1,97 +1,72 @@
 # Dingaan Mahlatse Machethe
 
-**Data Scientist · AI/ML Engineer · Cloud Security Researcher**
+**Data Scientist | ML Engineer | AI Engineer | Published Cybersecurity Researcher**
 
-Dual MSc candidate — Data Science (University of East London, UK) and Cybersecurity: Cloud Security Architecture (EC-Council University, USA).
-
-I build production AI/ML systems that serve real users — from an EdTech platform handling **950+ learners** to an AI-powered electrical services platform for a South African business. 10 years of experience designing and deploying data-driven solutions in resource-constrained environments.
-
-> *"Production systems, not side projects."*
+> Building production AI systems that turn raw data into actionable decisions.
 
 ---
 
-## Featured Projects
+## 🚀 Current Projects
 
-### 🔒 Cybersecurity & Cloud
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| [**ML-IDS Zero Trust Cloud**](https://github.com/machetheDM/ml-ids-zero-trust-cloud) | Python, TensorFlow, XGBoost, scikit-learn | LSTM 98.1% detection accuracy · 1.8% FPR · NIST SP 800-207 ZTA framework · MSc dissertation |
-| [**Rams @Elec Intelligence Platform**](https://github.com/machetheDM/rams-elec-intelligence-platform) | FastAPI, Next.js, PostgreSQL, Docker, GitHub Actions | AI-powered electrical services platform · NLP triage · XGBoost cost prediction · RAG chatbot · SecureDevOps pipeline (SAST, SCA, Trivy, Terraform) |
-
-### 📊 Data Engineering & Spatial Analysis
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| [**SA Crime Spatial Intelligence**](https://github.com/machetheDM/sa-crime-spatial-intelligence) | Python, GeoPandas, scikit-learn | Spatial analysis of South African crime statistics · Predictive hotspot modelling |
-| [**SA Data Engineering Pipeline**](https://github.com/machetheDM/sa-de-azure-pipeline) | Python, Azure, Apache Spark | End-to-end data engineering pipeline on Azure · ETL · Data warehousing |
-| [**Streamlit Projects**](https://github.com/machetheDM/Streamlit_projects) | Python, Streamlit, Pandas | Collection of interactive data dashboards and ML demos |
-
-### 🎓 Education Technology
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| [**EduAnalytics**](https://github.com/machetheDM/edu-analytics-showcase) | PySide6, FastAPI, scikit-learn, Docker, MLflow, Airflow | RandomForest 85%+ accuracy · 5-agent LLM pipeline · 950+ users · CAPS rules engine · Offline-first desktop app |
-| [**EduPortal**](https://github.com/machetheDM/edu-portal-showcase) | Next.js 15, TypeScript, Prisma, Supabase, Vercel | RBAC · RAG chatbot · WhatsApp/Gmail integration · POPIA-compliant · Live at mahlontebe.org.za |
-
-### 🎮 Game-Based Learning
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| [**SkyLearn IQ**](https://github.com/machetheDM/skylearn-iq) | Unity, C#, Python | Educational game for mathematics and science · Gamified assessment engine |
-
-### 🚗 Community
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| [**Community Ride App**](https://github.com/machetheDM/community-ride-app) | TypeScript, React Native | Ride-sharing coordination for underserved communities |
+| Project | Description | Status |
+|---------|-------------|--------|
+| [Rams @Elec Intelligence Platform](https://github.com/machetheDM/rams-elec-intelligence-platform) | Full AI platform for external client — NLP triage, XGBoost quoting, RAG chatbot, n8n automation | 🔄 Active Build |
+| [SA Crime Spatial Intelligence](https://github.com/machetheDM/sa-crime-spatial-intelligence) | Geospatial ML platform on SAPS crime data — Moran's I, XGBoost, Prophet forecasting | 🔄 Active Build |
+| [SecureDevOps Pipeline](https://github.com/machetheDM/secure-devops-pipeline) | DevSecOps security engineering — OWASP, SAST, Azure Cloud Security Architecture | 🔄 Active Build |
 
 ---
 
-## Technical Skills
+## � Production Portfolio
 
-**Machine Learning & AI**
-`scikit-learn` `TensorFlow/Keras` `XGBoost` `LSTM` `Autoencoder` `SMOTE` `RFECV` `MLflow` `LangChain` `RAG` `SHAP`
-
-**Data Engineering**
-`Pandas` `NumPy` `FastAPI` `Airflow` `n8n` `Docker` `Supabase` `PostgreSQL` `SQLite` `Apache Spark` `Azure`
-
-**Web Development**
-`Next.js 15` `TypeScript` `Prisma ORM` `Tailwind CSS` `Vercel` `tRPC` `React Native`
-
-**Cybersecurity & DevSecOps**
-`Zero Trust Architecture (NIST SP 800-207)` `IDS/IPS` `NSL-KDD` `CICIDS-2018` `Threat Modelling` `Bandit` `Trivy` `Terraform` `GitHub Actions` `OWASP Top 10`
-
-**Visualisation & GIS**
-`Matplotlib` `Seaborn` `Streamlit` `Recharts` `GeoPandas` `QGIS`
+| Project | Stack | Impact |
+|---------|-------|--------|
+| [EduAnalytics](https://github.com/machetheDM/edu-analytics-showcase) | Python · XGBoost · LSTM · MLflow · Airflow · FastAPI · Docker | 950+ users · 85%+ ML accuracy |
+| [EduPortal](https://github.com/machetheDM/edu-portal-showcase) | Next.js 16 · Groq LLM · Prisma · Supabase · Vercel | 950+ users · Live production |
+| [ZA-STEM Insights](https://github.com/machetheDM/za-stem-insights) | XGBoost · SHAP · K-Means · Streamlit | 0.99 ROC-AUC · Publicly deployed |
+| [ML-IDS Zero Trust](https://github.com/machetheDM/ml-ids-zero-trust-cloud) | LSTM · TensorFlow · NIST SP 800-207 | 98.1% accuracy · MSc research |
+| [SA DE Azure Pipeline](https://github.com/machetheDM/sa-de-azure-pipeline) | ADF · Databricks PySpark · Synapse · Delta Lake | 100M+ records |
 
 ---
 
-## Current Research
+## � Published Research
 
-**MSc Cybersecurity — Cloud Security Architecture | EC-Council University (2026)**
-*Machine Learning-Based Intrusion Detection for Cloud Network Security: A Zero Trust Architecture Approach*
-LSTM achieves 98.1% accuracy and 1.8% FPR on NSL-KDD — embedded within a 5-pillar Zero Trust framework per NIST SP 800-207.
+**[Mitigating SQL Injection and XSS in Cloud-Hosted E-Commerce Web Applications](https://www.eccu.edu/about-eccu/cyber-journal/)**
 
-**MSc Data Science | University of East London (2026)**
-Applied machine learning for educational outcomes prediction and spatial crime analysis.
+*EC-Council University Cyber Journal, 2026*
 
----
-
-## Certifications (In Progress)
-
-- **CASE** — Certified Application Security Engineer (ECCU510)
-- **CCSE** — Certified Cloud Security Engineer (ECCU524)
+Selected following Academic Honors — 96.9% distinction in Advanced Network Defense
 
 ---
 
-## Open To
+## 🛠️ Core Stack
 
-Remote or hybrid · Contract, fixed-term, or permanent
-**Cloud Security · DevSecOps · ML Engineering · Data Engineering · AI Automation · Data Science**
+```python
+Python · scikit-learn · XGBoost · TensorFlow/LSTM · MLflow · Airflow · FastAPI · Docker · LangChain · FAISS · Groq · Next.js 16 · PostgreSQL · Azure · Streamlit · Power BI · n8n · Twilio · SHAP
+```
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mahlontebe.org.za/portfolio-1F4E79?style=for-the-badge&logo=vercel)](https://www.mahlontebe.org.za/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dingaan-mahlatse-machethe)
-[![Email](https://img.shields.io/badge/Email-machethedm%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:machethedm@gmail.com)
+## 🎓 Education & Certifications
+
+- 🎓 MSc Data Science — University of East London, UK *(in progress, 2027)*
+- 🎓 MSc Cybersecurity/Cloud Security Architecture — EC-Council University, USA *(in progress, 2027)*
+- 📜 PGDip Data Science — Regenesys Business School *(2026, Grade A)*
+- 🏅 CND — Certified Network Defender *(EC-Council)*
+- 🔄 CASE — Certified Application Security Engineer *(in progress — ECCU510)*
+- 🔄 CCSE — Certified Cloud Security Engineer *(in progress — ECCU524)*
+
+---
+
+## 🌍 Open to Work
+
+**Roles:** Data Scientist · ML Engineer · AI Engineer · Security Engineer · Cloud Security Analyst
+
+**Location:** Remote (EMEA preferred) or South Africa
+
+**Available:** Immediately
+
+📂 [Portfolio](https://mahlontebe.org.za/portfolio) · 💼 [LinkedIn](https://linkedin.com/in/dingaan-mahlatse-machethe) · 📧 machethedm@gmail.com
+
+---
+
+*Profile views and GitHub stats badges intentionally omitted — the work speaks for itself.*
