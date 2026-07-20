@@ -4,20 +4,13 @@
 
 Dual MSc candidate — Data Science (University of East London, UK) and Cybersecurity: Cloud Security Architecture (EC-Council University, USA).
 
-Built a production AI/ML EdTech ecosystem solo from scratch, now serving **950+ learners** in a South African public school. Former Head of Department — Mathematics, Science and Technology — Limpopo, 10 years.
+I build production AI/ML systems that serve real users — from an EdTech platform handling **950+ learners** to an AI-powered electrical services platform for a South African business. 10 years of experience designing and deploying data-driven solutions in resource-constrained environments.
 
 > *"Production systems, not side projects."*
 
 ---
 
 ## Featured Projects
-
-### 🎓 Education Technology
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| [**EduAnalytics**](https://github.com/machetheDM/edu-analytics-showcase) | PySide6, FastAPI, scikit-learn, Docker, MLflow, Airflow | RandomForest 85%+ accuracy · 5-agent LLM pipeline · 950+ users · CAPS rules engine · Offline-first desktop app |
-| [**EduPortal**](https://github.com/machetheDM/edu-portal-showcase) | Next.js 15, TypeScript, Prisma, Supabase, Vercel | RBAC · RAG chatbot · WhatsApp/Gmail integration · POPIA-compliant · Live at mahlontebe.org.za |
 
 ### 🔒 Cybersecurity & Cloud
 
@@ -33,6 +26,13 @@ Built a production AI/ML EdTech ecosystem solo from scratch, now serving **950+ 
 | [**SA Crime Spatial Intelligence**](https://github.com/machetheDM/sa-crime-spatial-intelligence) | Python, GeoPandas, scikit-learn | Spatial analysis of South African crime statistics · Predictive hotspot modelling |
 | [**SA Data Engineering Pipeline**](https://github.com/machetheDM/sa-de-azure-pipeline) | Python, Azure, Apache Spark | End-to-end data engineering pipeline on Azure · ETL · Data warehousing |
 | [**Streamlit Projects**](https://github.com/machetheDM/Streamlit_projects) | Python, Streamlit, Pandas | Collection of interactive data dashboards and ML demos |
+
+### 🎓 Education Technology
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| [**EduAnalytics**](https://github.com/machetheDM/edu-analytics-showcase) | PySide6, FastAPI, scikit-learn, Docker, MLflow, Airflow | RandomForest 85%+ accuracy · 5-agent LLM pipeline · 950+ users · CAPS rules engine · Offline-first desktop app |
+| [**EduPortal**](https://github.com/machetheDM/edu-portal-showcase) | Next.js 15, TypeScript, Prisma, Supabase, Vercel | RBAC · RAG chatbot · WhatsApp/Gmail integration · POPIA-compliant · Live at mahlontebe.org.za |
 
 ### 🎮 Game-Based Learning
 
@@ -88,7 +88,7 @@ Applied machine learning for educational outcomes prediction and spatial crime a
 ## Open To
 
 Remote or hybrid · Contract, fixed-term, or permanent
-**Data Science · ML Engineering · Data Engineering · AI Automation · Cloud Security · DevSecOps**
+**Cloud Security · DevSecOps · ML Engineering · Data Engineering · AI Automation · Data Science**
 
 ---
 
